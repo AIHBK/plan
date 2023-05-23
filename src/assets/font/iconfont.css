@@ -1,0 +1,120 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4070878 */
+  /* Color fonts */
+  src: 
+       url('https://at.alicdn.com/t/c/font_4070878_0axmcm8b1kd.woff2?t=1684254604489') format('woff2'),
+       url('https://at.alicdn.com/t/c/font_4070878_0axmcm8b1kd.woff?t=1684254604489') format('woff'),
+       url('https://at.alicdn.com/t/c/font_4070878_0axmcm8b1kd.ttf?t=1684254604489') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-yiwancheng:before {
+  content: "\e601";
+}
+
+.icon-weiwancheng:before {
+  content: "\e602";
+}
+
+.icon-jinhangzhong:before {
+  content: "\e600";
+}
+
+.icon-duigou:before {
+  content: "\e605";
+}
+
+.icon-guanbi:before {
+  content: "\e608";
+}
+
+.icon-tianqi-leizhenyu:before {
+  content: "\e616";
+}
+
+.icon-tianqi-qingtian:before {
+  content: "\e619";
+}
+
+.icon-tianqi-duoyun:before {
+  content: "\e61b";
+}
+
+.icon-tianqi-zhenyu:before {
+  content: "\e623";
+}
+
+.icon-tianqi-yintian:before {
+  content: "\e624";
+}
+
+.icon-tianqi-zhongyu:before {
+  content: "\e626";
+}
+
+.icon-tianqi-xiaoyu:before {
+  content: "\e627";
+}
+
+.icon-tianqi-duoyun1:before {
+  content: "\e629";
+}
+
+.icon-tianqi-dayu:before {
+  content: "\e62a";
+}
+
+.icon-tianqi-daxue:before {
+  content: "\e630";
+}
+
+.icon-tianqi-zhongxue:before {
+  content: "\e631";
+}
+
+.icon-tianqi-xiaoxue:before {
+  content: "\e633";
+}
+
+.icon-richu:before {
+  content: "\e638";
+}
+
+.icon-yewan:before {
+  content: "\e63a";
+}
+
+.icon-tianqi-wu:before {
+  content: "\e63b";
+}
+
+.icon-tianqi-longjuanfeng:before {
+  content: "\e645";
+}
+
+.icon-tianqi-yangsha:before {
+  content: "\e648";
+}
+
+.icon-tianqi-yintian1:before {
+  content: "\e64b";
+}
+
+.icon-tianqi-yintian2:before {
+  content: "\e64d";
+}
+
+.icon-tianqi-duoyunlan:before {
+  content: "\e64e";
+}
+
+.icon-tianqi-yuhoucaihong:before {
+  content: "\e651";
+}
